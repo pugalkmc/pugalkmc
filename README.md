@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on projects that focused to solve problems found on real world<br>I have more interest on web development , problem solving<br>I will utilize prompt engineering to make my progress more faster and efficient<br>My skillsets are : python , javascript , MERN Stack , prompt engineering , problem solving , Interactive , Team player
+I am engaged in projects aimed at addressing real-world issues, with a particular focus on web development and problem-solving. My approach includes leveraging prompt engineering to accelerate and enhance my efficiency. My expertise encompasses Python, JavaScript, the MERN Stack (MongoDB, Express.js, React, and Node.js), prompt engineering, problem-solving, and I excel in interactive environments and teamwork.
 
 
 ## 🌐 Socials:
